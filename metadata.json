@@ -1,0 +1,18 @@
+{
+  "title": "IOP-VRP synthetic benchmark instances",
+  "snapshot_date": "2026-10-28",
+  "instance_count": 900,
+  "groups": {
+    "small": 180,
+    "large": 540,
+    "benchmark": 180
+  },
+  "layouts": {
+    "C": 450,
+    "R": 450
+  },
+  "source_workbook": "result_server_ALNS_SEQ_ALNSVND_final_ALNSVND30s_20260904.xlsx",
+  "source_workbook_sha256": "feb8a8964735e1f5e0d9ae5ffebd02be87602e766692958e6f6faebc1082f299",
+  "selection": "Instance filenames in the small, benchmark and large sheets; no regenerated instances.",
+  "contents": "Baseline instance inputs and documentation; sensitivity variants and solver outputs are not included."
+}
